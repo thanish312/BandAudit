@@ -1,0 +1,13 @@
+.env
+.env.*
+scripts/
+tmp/
+outputs/
+slide_Trial/
+sample_artifacts/
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+*.log
+*.pyc
+__pycache__/

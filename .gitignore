@@ -1,0 +1,27 @@
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+.DS_Store
+*.sqlite3
+*.db
+*.log
+*.tsbuildinfo
+frontend-dashboard*.png
+frontend-mobile*.png
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+tmp/
+
+# Generated presentation and demo scratch artifacts
+outputs/
+slide_Trial/
+sample_artifacts/
+*.pptx.inspect.ndjson
+scripts/generate_demo_release_packet.py
